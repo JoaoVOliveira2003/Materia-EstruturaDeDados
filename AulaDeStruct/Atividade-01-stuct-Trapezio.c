@@ -1,3 +1,10 @@
+/*
+3 – Crie uma struct que representa um trapézio. A struct é formada por três números inteiros
+representando a sua base maior (B), sua base menor (b) e sua altura. Crie duas funções:
+a) Uma que recebe um trapézio e preenche os valores de cada atributo.
+b) Uma que recebe um trapézio e retorna o valor da sua área.//
+*/
+
 #include <stdio.h>
 
 // Definindo a estrutura Trapezio
