@@ -1,0 +1,34 @@
+Pilha em estruturas de dados é basicamente:
+
+Colocar uma coisa em cima da outra.
+(é um vetor só que em vez do eixo X é para o eixo Y)
+
+pensa em BLOCOS DE AREIA do minecraft.
+
+//cima 
+-----
+| A |
+-----
+-----
+| B |
+-----
+-----
+| C |
+-----
+//baixo
+
+para vc acessar o do meio,vc tem que tirar o de cima,
+para acessar o B vc precisa tirar o A.
+
+
+---------------------------------------------------------------------------
+
+POP é tirar
+PUSH (empurrar em portugues) É colocar algo 
+
+PUSH vc coloca 
+push(p,x) 
+|-> p sendo o nome da pilha ,x é o valor a ser inserido
+
+POP
+vc apenas tira o que esta mais em cima
