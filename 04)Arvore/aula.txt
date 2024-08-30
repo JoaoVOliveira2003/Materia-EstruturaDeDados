@@ -1,0 +1,5 @@
+-Como colocar o valor em uma arvore(coloca o menor na esquerda e maior na direita)
+-Varredura Pre-ordem
+-Varredura Pós-ordem
+-Varredura em ordem
+-Arvore que gira

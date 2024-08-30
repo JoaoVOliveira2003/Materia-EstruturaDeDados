@@ -1,0 +1,24 @@
+PENSA NUMA FILA
+
+1,2,3,4,5
+
+Sendo basicamente 1  a pessoa que entrou 08:00
+e 5 a pessoa que entrou 10:00
+-Primeira pessoa que sai da fila é o 1 e não o 5 
+
+E assim é a fila,mas pensa nisso em num vetor 
+
+|0|1|2|3|4|5|
+
+E aqui tem uma coisa de F - fucinho 
+                        R - rabo
+
+
+O F é basicamente o primeiro valor que tem inserido e R é ultimo valor que tem inserido 
+            
+|     |  1  |  2  |  3  |  4  |  5  |
+   
+F (funcinho) - 1 
+R (  rabo  ) - 5 
+
+começa sempre sendo no começo R/F em -1(lembrando que aqui é um vetor)
